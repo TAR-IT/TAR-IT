@@ -20,6 +20,7 @@
 [Python](https://www.python.org), 
 [C](https://www.w3schools.com/c/c_intro.php?external_link=true), 
 [Rust](https://www.rust-lang.org)
+[PHP](https://www.php.net)
 
 - Frameworks:
 [django](https://www.djangoproject.com) 
