@@ -12,26 +12,34 @@
 - 💻 I'm passionate about everything technology offers.
 
 ## Skills & Interests
-- Languages & Frameworks: 
+- Languages: 
 [HTML](https://www.w3schools.com/html/), 
 [CSS](https://www.w3schools.com/css/), 
 [JavaScript](https://www.javascript.com), 
-[DuckyScript](https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference),
+[DuckyScript](https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference), 
 [Python](https://www.python.org), 
-[django](https://www.djangoproject.com)
 [C](https://www.w3schools.com/c/c_intro.php?external_link=true), 
-[Rust](https://www.rust-lang.org), 
+[Rust](https://www.rust-lang.org)
 
+- Frameworks:
+[django](https://www.djangoproject.com) 
 
-- Technologies & Tools: 
+- Technologies: 
 [nginx](https://nginx.org/en/), 
-[Apache](https://httpd.apache.org), 
-[Flipper Zero](https://flipperzero.one)
+[Apache](https://httpd.apache.org)
 
-- E-Commerce-Tools:
+- Tools:
+[Flipper Zero](https://flipperzero.one) 
+
+- E-Commerce:
 [Magento 2/Adobe Commerce](https://developer.adobe.com/commerce/docs/), 
 [Amazon Seller Central](https://sellercentral.amazon.de), 
 [ClouSale](https://www.clousale.com)
+
+- SEO & SEA:
+[Google Analytics](https://marketingplatform.google.com/about/analytics/), 
+[Google Search Console](https://search.google.com/search-console/about), 
+[Bing Webmaster Tools](https://www.bing.com/webmasters/about)
 
 ## Find Me Online
 - LinkedIn: [@TAR-IT](https://linkedin.com/in/tar-it/)
