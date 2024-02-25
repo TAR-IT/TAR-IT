@@ -19,7 +19,7 @@
 [DuckyScript](https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference), 
 [Python](https://www.python.org), 
 [C](https://www.w3schools.com/c/c_intro.php?external_link=true), 
-[Rust](https://www.rust-lang.org)
+[Rust](https://www.rust-lang.org), 
 [PHP](https://www.php.net)
 
 - Frameworks:
