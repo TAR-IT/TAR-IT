@@ -32,7 +32,7 @@
 - Tools:
 [Flipper Zero](https://flipperzero.one) 
 
-- E-Commerce:
+- CMS & E-Commerce:
 [Adobe Commerce](https://developer.adobe.com/commerce/docs/), 
 [Adobe Experience Cloud](https://business.adobe.com), 
 [Amazon Seller Central](https://sellercentral.amazon.de), 
