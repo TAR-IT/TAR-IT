@@ -14,6 +14,7 @@ I'm a working student based (political sciences & sociology) in Germany, passion
 [DuckyScript](https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference), 
 [Python](https://www.python.org), 
 [C](https://www.w3schools.com/c/c_intro.php?external_link=true), 
+[C++](https://www.w3schools.com/cpp/cpp_intro.asp), 
 [Rust](https://www.rust-lang.org), 
 [PHP](https://www.php.net), 
 [Lua](https://www.lua.org/)
@@ -21,7 +22,7 @@ I'm a working student based (political sciences & sociology) in Germany, passion
 - Frameworks:
 [django](https://www.djangoproject.com) 
 
-- Technologies: 
+- Server: 
 [nginx](https://nginx.org/en/), 
 [Apache](https://httpd.apache.org)
 
@@ -29,8 +30,9 @@ I'm a working student based (political sciences & sociology) in Germany, passion
 [VSCode](https://code.visualstudio.com/), 
 [Neovim](https://neovim.io/)
 
-- Tools:
-[Flipper Zero](https://flipperzero.one) 
+- Tools & Technologies:
+[Flipper Zero](https://flipperzero.one), 
+[Arduino](https://www.arduino.cc/) 
 
 - CMS & E-Commerce:
 [Adobe Commerce](https://developer.adobe.com/commerce/docs/), 
