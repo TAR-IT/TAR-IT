@@ -47,6 +47,7 @@ Skills, interests and stuff I worked with:
 
 - Other Tools & Technologies:
 [Flipper Zero](https://flipperzero.one), 
-[Arduino](https://www.arduino.cc/) 
+[Arduino](https://www.arduino.cc/),
+[VCDS](https://www.ross-tech.com/vag-com/VCDS.php)
 
 
