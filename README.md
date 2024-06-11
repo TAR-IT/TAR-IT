@@ -1,12 +1,11 @@
+I'm a working student based in Germany, passionate about everything that technology offers.
+
 ![TAR-IT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAR-IT&theme=transparent&show_icons=true&text_color=656d76&border_color=656d76)
 
 [![](https://visitcount.itsvg.in/api?id=TAR-IT&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
-## About Me
+Skills, interests and stuff I worked with:
 
-I'm a working student based (political sciences & sociology) in Germany, passionate about everything that technology offers.
-
-## Skills & Interests
 - Languages: 
 [HTML](https://www.w3schools.com/html/), 
 [CSS](https://www.w3schools.com/css/), 
@@ -30,10 +29,6 @@ I'm a working student based (political sciences & sociology) in Germany, passion
 [VSCode](https://code.visualstudio.com/), 
 [Neovim](https://neovim.io/)
 
-- Tools & Technologies:
-[Flipper Zero](https://flipperzero.one), 
-[Arduino](https://www.arduino.cc/) 
-
 - CMS & E-Commerce:
 [Adobe Commerce](https://developer.adobe.com/commerce/docs/), 
 [Adobe Experience Cloud](https://business.adobe.com), 
@@ -50,11 +45,8 @@ I'm a working student based (political sciences & sociology) in Germany, passion
 [Affinity Suite](https://affinity.serif.com/en-gb/), 
 [DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve)
 
-## Find Me Online
-- LinkedIn: [@TAR-IT](https://linkedin.com/in/tar-it/)
-
-- Website: [tar-it.com](https://tar-it.com)
-
-Feel free to reach out to me via [email](mailto:contact@tar-it.com) if you'd like to collaborate on something!
+- Other Tools & Technologies:
+[Flipper Zero](https://flipperzero.one), 
+[Arduino](https://www.arduino.cc/) 
 
 
