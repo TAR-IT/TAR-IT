@@ -1,21 +1,11 @@
 <head>
     <style>
-        @font-face {
-            font-family: 'SCP'; /* labels the font family */
-            src: url('/font/SourceCodePro-4alW.ttf'); /* sets the link to the Standard Font file of the websites font */
-            src: url('/font/SourceCodePro-4alW.eot') format('embedded-opentype'), /* sets the link to the Embedded OpenType Font file of the websites font */
-                url('/font/SourceCodePro-4alW.woff2') format('woff2'), /* sets the link to the WOFF2 Font file of the websites font */
-                url('/font/SourceCodePro-4alW.woff') format('woff'), /* sets the link to the WOFF Font file of the websites font */
-                url('/font/SourceCodePro-4alW.ttf')  format('truetype'), /* sets the link to the TrueType Font file of the websites font */
-                url('/font/SourceCodePro-4alW.svg') format('svg'); /* sets the link to the svg file of the websites font */
-        }
         html, body {
             --tar-it_color-white: #FFFFFF; /* defines a variable for the color white */
             --tar-it_color-black: #000000; /* defines a variable for the color black */
             --tar-it_color-darkgrey: #131313; /* defines a variable for the color dark grey */
             --tar-it_color-lightgrey: #d8d7d5; /* defines a variable for the color light grey */
             --tar-it_font-family: 'SCP', Arial, sans-serif; /* defines a variable for the font family of website fonts */
-            font-family: var(--tar-it_font-family); /* sets the global font */
             background-color: var(--tar-it_color-black);
             color: var(--tar-it_color-white);
             margin: 0;
@@ -34,7 +24,6 @@
             margin: 0 auto;
             width: 100%; /* Adjust as needed */
             max-width: 600px; /* Adjust as needed */
-            border: 2px solid #656d76;
             border-radius: 10px;
         }
         .visit-count {
