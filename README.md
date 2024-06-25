@@ -1,23 +1,7 @@
 <head>
     <style>
-        html, body {
-            --tar-it_color-white: #FFFFFF; /* defines a variable for the color white */
-            --tar-it_color-black: #000000; /* defines a variable for the color black */
-            --tar-it_color-darkgrey: #131313; /* defines a variable for the color dark grey */
-            --tar-it_color-lightgrey: #d8d7d5; /* defines a variable for the color light grey */
-            --tar-it_font-family: 'SCP', Arial, sans-serif; /* defines a variable for the font family of website fonts */
-            background-color: var(--tar-it_color-black);
-            color: var(--tar-it_color-white);
-            margin: 0;
-            padding: 0;
-        }
         .container {
             margin: 20px;
-        }
-        .grid {
-            display: grid;
-            grid-template-columns: auto auto auto;
-            grid-template-rows: auto;
         }
         .github-stats {
             display: block;
@@ -33,7 +17,17 @@
         }
     </style>
 </head>
-<body>
+<body style="
+    --tar-it_color-white: #FFFFFF; /* defines a variable for the color white */
+    --tar-it_color-black: #000000; /* defines a variable for the color black */
+    --tar-it_color-darkgrey: #131313; /* defines a variable for the color dark grey */
+    --tar-it_color-lightgrey: #d8d7d5; /* defines a variable for the color light grey */
+    --tar-it_font-family: 'SCP', Arial, sans-serif; /* defines a variable for the font family of website fonts */
+    background-color: var(--tar-it_color-black);
+    color: var(--tar-it_color-white);
+    margin: 0;
+    padding: 0;
+">
     <div class="container">
         <p style="text-align: center;">
             I'm a working student based in Germany, passionate about everything that technology offers.
@@ -48,7 +42,9 @@
         </a>
     </div>
     <h2 style="text-align: center;">Skills, interests and stuff I work with</h2>
-    <div class="container grid">
+    <div class="container grid" style="            display: grid;
+            grid-template-columns: auto auto auto;
+            grid-template-rows: auto;">
         <div>
             <h3>Languages</h3>
             <ul>
