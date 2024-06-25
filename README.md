@@ -1,117 +1,53 @@
-<head>
-    <style>
-        .container {
-            margin: 20px;
-        }
-        .github-stats {
-            display: block;
-            margin: 0 auto;
-            width: 100%; /* Adjust as needed */
-            max-width: 600px; /* Adjust as needed */
-            border-radius: 10px;
-        }
-        .visit-count {
-            display: block;
-            margin: 30px auto;
-            text-align: center;
-        }
-    </style>
-</head>
-<body style="
-    --tar-it_color-white: #FFFFFF; /* defines a variable for the color white */
-    --tar-it_color-black: #000000; /* defines a variable for the color black */
-    --tar-it_color-darkgrey: #131313; /* defines a variable for the color dark grey */
-    --tar-it_color-lightgrey: #d8d7d5; /* defines a variable for the color light grey */
-    --tar-it_font-family: 'SCP', Arial, sans-serif; /* defines a variable for the font family of website fonts */
-    background-color: var(--tar-it_color-black);
-    color: var(--tar-it_color-white);
-    margin: 0;
-    padding: 0;
-">
-    <div class="container">
-        <p style="text-align: center;">
-            I'm a working student based in Germany, passionate about everything that technology offers.
-        </p>
-    </div>
-    <div class="container">
-        <img class="github-stats" src="https://github-readme-stats.vercel.app/api?username=TAR-IT&theme=transparent&show_icons=true&text_color=656d76&border_color=656d76" alt="TAR-IT's GitHub Stats">  
-    </div>
-    <div class="container">
-        <a class="visit-count" href="https://visitcount.itsvg.in">
-            <img src="https://visitcount.itsvg.in/api?id=TAR-IT&label=Profile%20Views&color=1&pretty=false" alt="Profile Views">
-        </a>
-    </div>
-    <h2 style="text-align: center;">Skills, interests and stuff I work with</h2>
-    <div class="container grid" style="            display: grid;
-            grid-template-columns: auto auto auto;
-            grid-template-rows: auto;">
-        <div>
-            <h3>Languages</h3>
-            <ul>
-                <li><a href="https://www.w3schools.com/html/">HTML</a></li>
-                <li><a href="https://www.w3schools.com/css/">CSS</a></li>
-                <li><a href="https://www.javascript.com">JavaScript</a></li>
-                <li><a href="https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference">DuckyScript</a></li>
-                <li><a href="https://www.python.org">Python</a></li>
-                <li><a href="https://www.w3schools.com/c/c_intro.php?external_link=true">C</a></li>
-                <li><a href="https://www.w3schools.com/cpp/cpp_intro.asp">C++</a></li>
-                <li><a href="https://www.rust-lang.org">Rust</a></li>
-                <li><a href="https://www.php.net">PHP</a></li>
-                <li><a href="https://www.lua.org/">Lua</a></li>
-            </ul>
-        </div>
-        <div>
-            <h3>CMS & E-Commerce</h3>
-            <ul>
-                <li><a href="https://developer.adobe.com/commerce/docs/">Adobe Commerce</a></li>
-                <li><a href="https://business.adobe.com">Adobe Experience Cloud</a></li>
-                <li><a href="https://sellercentral.amazon.de">Amazon Seller Central</a></li>
-                <li><a href="https://www.clousale.com">ClouSale</a></li>
-            </ul>
-        </div>
-        <div>
-            <h3>SEO & SEA</h3>
-            <ul>
-                <li><a href="https://marketingplatform.google.com/about/analytics/">Google Analytics</a></li>
-                <li><a href="https://search.google.com/search-console/about">Google Search Console</a></li>
-                <li><a href="https://www.bing.com/webmasters/about">Bing Webmaster Tools</a></li>
-            </ul>
-        </div>
-        <div>
-            <h3>Frameworks</h3>
-            <ul>
-                <li><a href="https://www.djangoproject.com">Django</a></li>
-            </ul>
-        </div>
-        <div>
-            <h3>Server</h3>
-            <ul>
-                <li><a href="https://nginx.org/en/">nginx</a></li>
-                <li><a href="https://httpd.apache.org">Apache</a></li>
-            </ul>
-        </div>
-        <div>
-            <h3>Editors/IDEs</h3>
-            <ul>
-                <li><a href="https://code.visualstudio.com/">VSCode</a></li>
-                <li><a href="https://neovim.io/">Neovim</a></li>
-            </ul>
-        </div>
-        <div>
-            <h3>Media Creation</h3>
-            <ul>
-                <li><a href="https://www.adobe.com/de/creativecloud.html">Adobe Suite</a></li>
-                <li><a href="https://affinity.serif.com/en-gb/">Affinity Suite</a></li>
-                <li><a href="https://www.blackmagicdesign.com/de/products/davinciresolve">DaVinci Resolve</a></li>
-            </ul>
-        </div>
-        <div>
-            <h3>Other Tools & Technologies</h3>
-            <ul>
-                <li><a href="https://flipperzero.one">Flipper Zero</a></li>
-                <li><a href="https://www.arduino.cc/">Arduino</a></li>
-                <li><a href="https://www.ross-tech.com/vag-com/VCDS.php">VCDS</a></li>
-            </ul>
-        </div>
-    </div>
-</body>
+I'm a working student based in Germany, passionate about everything that technology offers.
+
+![TAR-IT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAR-IT&theme=transparent&show_icons=true&text_color=656d76&border_color=656d76)
+
+[![](https://visitcount.itsvg.in/api?id=TAR-IT&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+
+Skills, interests and stuff I worked with:
+
+- Languages: 
+[HTML](https://www.w3schools.com/html/), 
+[CSS](https://www.w3schools.com/css/), 
+[JavaScript](https://www.javascript.com), 
+[DuckyScript](https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference), 
+[Python](https://www.python.org), 
+[C](https://www.w3schools.com/c/c_intro.php?external_link=true), 
+[C++](https://www.w3schools.com/cpp/cpp_intro.asp), 
+[Rust](https://www.rust-lang.org), 
+[PHP](https://www.php.net), 
+[Lua](https://www.lua.org/)
+
+- Frameworks:
+[django](https://www.djangoproject.com) 
+
+- Server: 
+[nginx](https://nginx.org/en/), 
+[Apache](https://httpd.apache.org)
+
+- Editors/IDEs:
+[VSCode](https://code.visualstudio.com/), 
+[Neovim](https://neovim.io/)
+
+- CMS & E-Commerce:
+[Adobe Commerce](https://developer.adobe.com/commerce/docs/), 
+[Adobe Experience Cloud](https://business.adobe.com), 
+[Amazon Seller Central](https://sellercentral.amazon.de), 
+[ClouSale](https://www.clousale.com)
+
+- SEO & SEA:
+[Google Analytics](https://marketingplatform.google.com/about/analytics/), 
+[Google Search Console](https://search.google.com/search-console/about), 
+[Bing Webmaster Tools](https://www.bing.com/webmasters/about)
+
+- Media Creation:
+[Adobe Suite](https://www.adobe.com/de/creativecloud.html), 
+[Affinity Suite](https://affinity.serif.com/en-gb/), 
+[DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve)
+
+- Other Tools & Technologies:
+[Flipper Zero](https://flipperzero.one), 
+[Arduino](https://www.arduino.cc/),
+[VCDS](https://www.ross-tech.com/vag-com/VCDS.php)
+
+
